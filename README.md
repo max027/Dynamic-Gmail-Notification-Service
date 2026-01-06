@@ -191,3 +191,7 @@ The service handles:
 ## License
 
 MIT License
+
+## Author
+Name: Saurabh Wajage
+Mail: saurabhwajage887@gmail.com
