@@ -149,7 +149,7 @@ Stores all email sending attempts with status and details.
 ## Database Configuration
 
 ### MySql
-The application uses H2 in-memory database by default. Access H2 console at:
+The application uses MySql database by default.
 - URL: http://localhost:8080/email_service
 - JDBC URL: `jdbc:mysql://localhost:3306/email_service`
 - Username: (username)
